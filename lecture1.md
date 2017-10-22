@@ -1,0 +1,67 @@
+## Learning Goals
+- Understand the world in terms of choices that designers have made
+    - Designers need to negotiate _competing values_, _constraints_, _functional requirements_ of the choices
+- Relationship between the myth of _human error_ and goal of human computer interaction
+    - Human centered design as a philosophy:
+        - Try to understand the problem as best as possible
+        - Make decisions based on data
+        - Justify your design choices
+        - Prototype
+        - Iterate
+    - Place human experience at the centre of your design decisions
+        - Feelings, how bodies work, things used, limitations
+    - _Myth of human error_:
+        - Most failures of human-machine system are due to poor designs that don’t recognize people’s capabilities and fallibilities
+        - Leads to apparent machine misuse and “human error”
+            - Actually errors in design that needs to be taken account as a designer!
+        - Good design accounts for _human limitations_
+            - Eg1. tractor example: “driver’s error”
+            - Eg2. WWII: booster fails, altimeter gauges reading human factors are a big deal here
+        - Some _principles_ for good design of usability and UX
+            - Common failures: absence of usability & UX
+        - Can use principles to _analyze_ & _critique_ interfaces
+        - Design better interfaces by applying them
+        - Need to use them _judiciously_
+            - Applied blindly: will get you in trouble
+        - Subjective? A lotn of wrong answers and only a few right ones
+-   List _concepts/heuristics/principles_ for good/bad interface design
+    - A few way interfaces can fail
+        - Functionality problem: function the object performs
+        - System status visibility problem: mode of object
+        - Control visibility problem: control/sequence of controls
+        - Feedback problem
+    - Designers go wrong when… they do not start with basic needs
+        - Understand the range of users and their physiological limitations
+        - Communicate what it does
+        - Provide a model (i.e. apparent to the user) of how something works
+        - Provide feedback
+        - Foresee possible contexts of use
+-   Be able to identify and critique interface strengths and weaknesses in terms of this language
+    - What makes interface design hard?
+        - _Interaction is unpredictable and complex_
+            - Cooperative (complicated coordination)
+            - Users change their minds & get distracted
+            - They use in unforeseen ways (then evolve that use)
+        - _Tasks are implicit and complex  (poorly defined)_
+            - Machine often doesn’t “know” the user’s goal
+            -   Distribution of tasks between human & machine is a moving target
+- User task is getting more complex
+    - Number of things to control are increasing
+    - Display is artificial
+        - Red lights in car: problems VS Flames: fire
+    - Feedback is more complex, subtle, and less natural
+    - Errors are increasingly serious and/or costly
+- Market place pressures
+    - Adding functionality (complexity) is easy & cheap
+    - Adding controls/feedback is expensive + takes up space
+    - Designer time is expensive
+    - Consumers value cost/ looks over usability
+-   Explain the difference between technology-centred VS human-centered design
+    - _Technology-centred design_
+        - Design decisions guided by technology (tech advances make progress)
+        -  Prevalent attitude in real world – looks cool, engaging, fun
+            -   Goal: show off gadgets + inventions
+        - Problem: risk of leaving out real ppl with real problems right now
+    - _Human-centered design_
+        - Progress made by incorporating ppl into the process
+        - Empirical studies integrated early into the design + users as part of the dev team
