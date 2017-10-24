@@ -1,3 +1,5 @@
+## Week3: Questionnaires, Interviews, Observations, Planning Evaluations
+
 ### Questionnaires
 - A series of questions used in gathering info from ppl, usually answered w/out the presence of a researcher
 - Learning goals
