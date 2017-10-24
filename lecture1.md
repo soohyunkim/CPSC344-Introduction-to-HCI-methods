@@ -1,4 +1,6 @@
-## Learning Goals
+## Week1: How Interfaces Fail?
+
+### Learning goals
 - Understand the world in terms of choices that designers have made
     - Designers need to negotiate _competing values_, _constraints_, _functional requirements_ of the choices
 - Relationship between the myth of _human error_ and goal of human computer interaction
