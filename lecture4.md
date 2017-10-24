@@ -119,4 +119,104 @@ Explain the difference between __internal and external cognitive frameworks__ (L
         - ppl may start to ignore them when reminders are too frequent
 
 ### Human Abilities: Memory and Perception
+__List__ and __describe__ models we have of human abilities (cognitive resources and memory, sensory processing)
+- Modular model of mind - simplest (_serial_ aspect of the pipeline)
+    - 3 stage model of human information processing
+    - processing time: associated with each block
+    - function happen in neurologically separate parts of brain, connected by electrical pathways
+    - attention provides backwards pathway
+    - PERCEPTION (sensory) -> DECISION (cognition) -> RESPONSE (motor)
+- __Perception & action subsystems__
+    - _input (perception modalities)_: 
+        - _visual_ subsystem for what we see
+        - _echoic_ subsystem for what we hear
+        - _haptic_ subsystem for what we feel through touch
+    - _output (action)_
+        - _motor_ subsystem for how we move
+            - _vocal (articulartory)_ subsystem for what we speak
+- __Analogies to a computer system__
+    - perception, audition, motor control as __system I/O__
+        - each has associated memory ("cache")
+        - limits on input speed ("sample rate") and throughput capacity
+    - cognition = CPU
+        - includes multi-level main memory
+        - multithreading?!?! 
+- The Memory pipeline: __stage theory__
+    - working memory is small (temp. storage: decay, displacement)
+    - maintenance rehearsal
+        - role repetition
+        - information must be meaningful to learn information well
+    - answer to problem is organization
+    - Human memory: __types__
+        - Model Human Processor(MHP): PERCEPTION -> MEMORY -> COGNITION
+        - Perceptual Processors -> Visual, Auditory, Haptic Stores -> WOrking Memory -> Long Term Memory
+        - _Sensory Memory_: 
+            - buffers: iconic(visual), echoic(auditory), haptic(touch)
+            - allowed into short-term memory by _attention_ (filtering)
+        - _Working Memory_: short-term
+            - rapid access and decay
+            - limited capacity
+            - "flush" when finished with a task
+            - move into long-term via conscious _rehearsal_
+        - _Long Term Memory_: slower, larger
+            - virtually unlimited capacity
+            - slower access time with little decay
+            - access: complicated operation that depends on recent past
+            - causes for not remembering an item (forgetting)?
+                - 1. never stored (encoding failure), 2. gone from storage (storage failure), 3. can't get out of storage (retrieval failure)
+                - interferance model of forgetting: one item reduces the ability to retrieve another
+                    - forward (proactive) interference (3)
+                    - backward (retroactive interferance (3 & 2)
+        - Attention: _process_ of excitation and inhibition
+Describe implications for design that results from these models, and that consider both _visual_ and _physical_ attributes
+- Example 1: Change blindness
+    - Images will blink/flicker, will change with each blink
+    - Vision system: is more like _touch_
+        - model is built up serially (over time)
+- Example 2: Stimulus Response (S-R) compatibility
+    - task difficulty determined in part by:
+        - the particular sets of stimuli and response used
+        - OR, the way in which individual stimuli and responses are paired with each other
+    - Going through colours (written in different coloured texts)
+    - spatial pairing, directional, limb to limb, sensory/motor channels
+- Example 3: Perceptual Causality
+    - How soon must red ball move after cue ball is reached?
+    - Two distinct stimuli can fuse if the first event appears to _cause_ the other
+    - Events must still occur in the same perceptual cycle
+    - eg1. lip synch: is the voice really coming from that person?
+    - eg2. touchscreen button: did my touch really make that click?
+    - _Perceptual fusion_: stimuli that occur within one perceptual processing cycle _fuse_ into a single percept 
+- Our initial perception has many limitations
+    - _conveyance of info_ from perceptual to cognitive centers is constricted
+    - _attention and external factors_ are central to what we finally "perceive"
+    - Our "mental image" of a scene, object or situation is a _constructed model_
+    - ignoring roles of perception and attention can cause problems during interface design and testing
 
+### Translate Models into Implications for Design
+Give __examples__ of interface features that illustrate these implications; critique interfaces using them
+
+Give __examples__ of impairments and individual differences that impact human abilities (visual, motor, cognitive, etc)
+- Visual cues
+    - visual proximity and separation: _whtiespace_ to indicate grouping
+    - visual differentiation: vary the visual characteristics of groups to make them distinctive
+    - visual progression: rely on visual and cognitive cues to guide order in which users perceive info
+    - support/impede finding and seeing
+- Physical (touch) attributes
+    - physical cues: shape (eg. remote controller - fit to hand, location of controls, which end is active, button findability/purpose)
+        - when it can change, why is it changing?
+    - findability and status feedback
+        - spatial stability (stays in the same place, muscle memory), physical constraints (allow to move only in acceptable way), physical feedback (engagement, completion)
+- Individual differences and impairments
+    - accomodate diversity: human abilities are different
+    - limitations in these abilities afford performance 
+        - abilities include: short-term memory, long-term memory & learning, problem solving, decision making, attention & set (scope of concern), search & scanning, time perception
+    - kinds of human diversity to accomodate:
+        - physical abilities (ergonomics)
+        - cognitive & perceptual abilities 
+        - personality differences (eg. extroversion VS introversion, sensing VS intutition, perceptive VS judging, feeling VS thinking)
+        - cultural & internatinal origins
+        - disabilities
+    - ex. older adults: aging often comes with a decrease of abilities in
+        - visual functioning, attention, working memory, learning
+- Human capabilities dictate that we _perceive_, _remember_, and _control_ things in particular ways
+    - How design should take this into account depends on task context and goals 
