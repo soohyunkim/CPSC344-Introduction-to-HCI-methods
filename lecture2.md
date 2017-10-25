@@ -2,62 +2,62 @@
 
 ## Design Concepts
 ### Learning Goals
--   Describe the _stages_ of the HCI process and different types of _goals_ each might have
--   Define and identify _stakeholders_
--   Start to develop _evaluation goals_
+-   Describe the __stages__ of the HCI process and different types of __goals__ each might have
+-   Define and identify __stakeholders__
+-   Start to develop __evaluation goals__
 
 ### Psychology of Every Day things
-- Some _principles_ for good design of usability and UX
+- Some __principles__ for good design of usability and UX
     - Common failures: absence of usability & UX
-- Can use principles to _analyze_ & _critique_ interfaces
+- Can use principles to __analyze__ & __critique__ interfaces
 - Design better interfaces by applying them
-- Need to use them _judiciously_
+- Need to use them __judiciously__
     - Applied blindly: will get you in trouble
-- Subjective? A lotn of wrong answers and only a few right ones
+- Subjective? A lot of wrong answers and only a few right ones
 
 ### UX and Usability Goals
-- _goals/ value statements_ that you want to _max/minimize_
+- __goals/ value statements__ that you want to __max/minimize__
 - UX
     - Usability: effectiveness, efficiency, learnability, memorability, safety, utility
     - undesirable aspects: unpleasant, frustrating, gimmicky
     - desirable aspects: exciting, fun, rewarding 
 
 ### Design concepts
-- Basics: _affordance_, _visibility_, _feedback_
+- Basics: __affordance__, __visibility__, __feedback__
 - Other concepts: signifiers, mapping, constraints (perceptible), transfer effects, cultural associations, individual differences 
 - Conceptual and mental models 
 
 ### Affordance
-- a _relationship_ between an object's _properties_ and your _abilities_
+- a __relationship__ between an object's __properties__ and your __abilities__
 - eg1. small, cylindrical, light <--> I can grab this 
 - eg2. flat, sturdy, not too high <--> I can sit on this 
 
 ### Signifier
-- The _physical form_ of a sign from semiotics (study of symbols & their meaning)
-- manipulate your _signifiers_ to create an _affordance_ 
-- change the _properties_ of an object to tell ppl what they can do with it 
+- The __physical form__ of a sign from semiotics (study of symbols & their meaning)
+- manipulate your __signifiers__ to create an __affordance__
+- change the __properties__ of an object to tell ppl what they can do with it 
 
 ### Mapping
-- A relationship between _signifiers_ and _functions/states_ of an interface
+- A relationship between __signifiers__ and __functions/states__ of an interface
 - things I can perceive -> actions/states
 - buttons -> functions, knob twist -> volume, turn wheel -> go left
 - Can be _natural_ or _arbitrary_
 
 ### Visibility
-- How _perceptible_ a signifier or action is
-- _Discoverability_: Can the user easily _perceive_ all of the actions that they can perform?
-- _System status_: Can the users _recognize_ and _correctly interpret_ the system's state?
+- How __perceptible__ a signifier or action is
+- __Discoverability__: Can the user easily _perceive_ all of the actions that they can perform?
+- __System status__: Can the users _recognize_ and _correctly interpret_ the system's state?
 
 ### Feedback
-- A _signal_ from the system after an _action_ is performed
-- Can the user correctly interpret the relationhip between their _actions_ and the _system's actions_?
+- A __signal__ from the system after an __action__ is performed
+- Can the user correctly interpret the relationship between their _actions_ and the _system's actions_?
 
 ### Constraint
-- A _limit_ on what we can do with a system
+- A __limit__ on what we can do with a system
 - eg. USB drive can only be put in _one way_ successfully
 
 ### Transfer Effect
-- When _knowledge_ from one system _transfers_ to another system
+- When __knowledge__ from one system __transfers__ to another system
 - _Positive transfer effect_: I have driven a car before, so I can drive this car
 - _Negative transfer effect_: All the short cuts I used to know don't work here! 
 
@@ -65,20 +65,20 @@
 - Defining systems as designers (implement structures that create culture)
 
 #### Cultural Associations
-- Different cultures associate different _meanings_ with different _signifiers_ 
+- Different cultures associate different __meanings__ with different __signifiers__
 - Eg. traffic light - red: stop, yellow: slow down, green: go
-- _Culture_ does not mean nationality
+- __Culture__ does not mean nationality
 
 #### Individual Differences
 - Different ppl have different abilities, experiences, and values
 - Can try to: design for the avg, specific group, personalization
 
 ## HCI Design Process
-- _Stages_ of design 
+- __Stages__ of design 
 - Design stages have different goals
 - Evaluation tools to support those goals
-- Identifying _stakeholders_ 
-- Roadmap to _evaluation types_ 
+- Identifying __stakeholders__ 
+- Roadmap to __evaluation types__
 
 ### Why do we need a process?
 - the "Double Diamond"
@@ -88,34 +88,34 @@
 - Human activity needing better support --> _usable_ and _useful_ interactive system that addresses this 
 
 ### Process stages and their goals (LG)
-- _pre_ design: understand the problem 
+- __pre__ design: understand the problem 
     - do users really have the problem you think they do?
     - who are the users? non-users involved in the problem & potential solution? who cares?
     - what are your users like and how varied are they?
     - what is the task?
     - what properties must a solution have?
-- _early_ design: explore design space
+- __early__ design: explore design space
     - considered relevant approaches?
-    - 'metrics' you shoudl be considering as you compare approaches?
+    - 'metrics' you should be considering as you compare approaches?
     - high-risk elements of your likely approach, can you address them?
-- _mid_ design: develop the chosen approach; reduce risk
+- __mid__ design: develop the chosen approach; reduce risk
     - major 'elements' of your design that can be advanced separately?
     - major questions/uncertainties/risks associated with each design element?
     - user input needed to verify your design progress?
     - prototypes do you need to support problem solving? 
-- _late_ design: integrate and start to deploy
+- __late__ design: integrate and start to deploy
     - integrate different design elements
     - final delivery platform
     - put systems in real users' hands in real contexts for longer durations
     - fine-tune, debug
-- _always_ evaluate and prototype
+- __always__ evaluate and prototype
 - interviews, observation, questionnaires: valuable throughout design process but may be executed differently
     - _early_: interview/observe for understanding
     - _later_: input on your design approach and details
 
 ### Look at USER INTERFACE DESIGN PROCESS: EVOLVING ITERATIONS graph
 - Key features: 
-    - _iteration_: both within and between stages
+    - __iteration__: both within and between stages
         - KEY: because it is hard to predict or perfectly model
         - ppl: diversity in abilities, needs, motivations...
     - stage evolution: in goals and methods
@@ -125,8 +125,8 @@
     - methods: used throughout, or stage-specific
 
 ### Stakeholders (LG)
-- _Stakeholder_: anyone who has some reason to care about the interface
-    - lots of htem, needs may conflict
+- __Stakeholder__: anyone who has some reason to care about the interface
+    - lots of them, needs may conflict
 - _user_: convenience, functionality, etc
 - _boss_: price, worker efficiency
 - _developer_: ease of development - deadlines/budget
@@ -136,10 +136,10 @@
     - who will use it, ask for it, decide whether to use it, pay for it, make design/build it, make profit from it, needs it (or else will make your life miserable if they don't like it), can't/won't use it?
 
 ### Evaluation goals (LG)
-- Human activity: must be _interface-independent_, _high-level_, _simple_
-    - VS. task: _interface-dependent_, _low-level_
+- Human activity: must be __interface-independent__, __high-level__, __simple__
+    - VS. task: __interface-dependent__, __low-level__
 - Eg. Human activity: cleaning your teeth/ task: brushing your teeth manually, sub-tasks: wet toothbrush, apply toothpaste
-- Need to understand the problem at hand, _evaluate the system_ as it is used currently by real ppl
+- Need to understand the problem at hand, __evaluate the system__ as it is used currently by real ppl
 - After brainstorming questions, start to _group_ the _questions_ together,_refine_ your ideas, ask _higher level_ questions, fill in any _missing spots_
 - GOOD EVALUATION GOALS: 
     - succinct, measurable, specific (but not TOO low-level), clear

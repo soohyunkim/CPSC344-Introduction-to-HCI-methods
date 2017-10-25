@@ -3,7 +3,7 @@
 ### Learning goals
 - Understand the world in terms of choices that designers have made
     - Designers need to negotiate _competing values_, _constraints_, _functional requirements_ of the choices
-- Relationship between the myth of _human error_ and goal of human computer interaction
+- Relationship between the __myth of human error__ and __goal of human computer interaction__
     - Human centered design as a philosophy:
         - Try to understand the problem as best as possible
         - Make decisions based on data
@@ -12,7 +12,7 @@
         - Iterate
     - Place human experience at the centre of your design decisions
         - Feelings, how bodies work, things used, limitations
-    - _Myth of human error_:
+    - __Myth of human error__:
         - Most failures of human-machine system are due to poor designs that don’t recognize people’s capabilities and fallibilities
         - Leads to apparent machine misuse and “human error”
             - Actually errors in design that needs to be taken account as a designer!
@@ -26,7 +26,7 @@
         - Need to use them _judiciously_
             - Applied blindly: will get you in trouble
         - Subjective? A lotn of wrong answers and only a few right ones
--   List _concepts/heuristics/principles_ for good/bad interface design
+-   List __concepts/heuristics/principles__ for good/bad interface design
     - A few way interfaces can fail
         - Functionality problem: function the object performs
         - System status visibility problem: mode of object
@@ -40,11 +40,11 @@
         - Foresee possible contexts of use
 -   Be able to identify and critique interface strengths and weaknesses in terms of this language
     - What makes interface design hard?
-        - _Interaction is unpredictable and complex_
+        - __Interaction is unpredictable and complex__
             - Cooperative (complicated coordination)
             - Users change their minds & get distracted
             - They use in unforeseen ways (then evolve that use)
-        - _Tasks are implicit and complex  (poorly defined)_
+        - __Tasks are implicit and complex  (poorly defined)__
             - Machine often doesn’t “know” the user’s goal
             -   Distribution of tasks between human & machine is a moving target
 - User task is getting more complex
@@ -58,12 +58,12 @@
     - Adding controls/feedback is expensive + takes up space
     - Designer time is expensive
     - Consumers value cost/ looks over usability
--   Explain the difference between technology-centred VS human-centered design
-    - _Technology-centred design_
+-   Explain the __difference__ between __technology-centred__ VS __human-centered design__
+    - __Technology-centred design__
         - Design decisions guided by technology (tech advances make progress)
         -  Prevalent attitude in real world – looks cool, engaging, fun
             -   Goal: show off gadgets + inventions
         - Problem: risk of leaving out real ppl with real problems right now
-    - _Human-centered design_
+    - __Human-centered design__
         - Progress made by incorporating ppl into the process
         - Empirical studies integrated early into the design + users as part of the dev team

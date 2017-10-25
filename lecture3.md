@@ -45,7 +45,7 @@
         - Administering questionnaires
             - in-person administration: requires time, but highest completion rate
             - "take-home" (conventional): often subjects don't complete/return the questionnaire
-            - email: subjects can answer in their own time, responses are free-form, attachments may be a prolbme, response rates depend on trust in source
+            - email: subjects can answer in their own time, responses are free-form, attachments may be a problem, response rates depend on trust in source
             - web-based forms: standardize formats and responses, Java/Javascript to ensure correct/complete
         - Be considerate of your respondents and the context you access them in: works better!
             - Questionnaire length (short is good): reasonable completion times, ask questions whose answers you will use
@@ -102,7 +102,7 @@
         - flexible - can do either controlled or real context
         - rich data
     - __Cons__: 
-        -observer's presence can disrupt/influence what is being observed
+        - observer's presence can disrupt/influence what is being observed
         - can be difficult to analyze/reproduce
         - potentially expensive, time consuming
     - __Simple observation__ (direct observation)
@@ -157,6 +157,7 @@
             - can be intrusive (at least initially)
             - analysis can be chalelnging (takes even longer than audio)
 - Describe a contextual inquiry, its relationship to observations/interview, and when it would be an appropriate technique 
+    - Do not worry about it (not covered Learning Goal)
 
 ### Planning Evaluations
 - Develop focus and goals for pre-design activities (eg. identify human activity needing support, stakeholders, central tasks, evaluation goals, participants - who?)

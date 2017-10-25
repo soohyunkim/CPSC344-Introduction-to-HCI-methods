@@ -61,7 +61,7 @@ Choice of analysis: depend on _type_ of data that you have && what you are using
         - efficient when you have lots of data
         - incidents can be either desirable or undesirable
         - NOT about summarizing all incidents that occur
-    - then analyzie in detail and report on incidents (use combination of other analysis techniques)
+    - then analyze in detail and report on incidents (use combination of other analysis techniques)
 - finding patterns and themes 
     - tool: __affinity diagrams__
         - used to organize and consolidate specific insights from collected data or ideas

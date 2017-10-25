@@ -22,12 +22,12 @@ Define __Mental Models__ and describe their characteristics (LG)
         - not accurate representation (contains errors/ uncertainty measures)
         - provide a simple representation of a complex phenomena
         - can be represented by a set of _if-then-else_ rules
-    -__mental models: something that user has (forms)__
+    - __mental models: something that user has (forms)__
         - users "__see__" the system through mental models
         - users __rely__ on mental models during usage
         - there are various __forms__ of mental models
         - mental models can __support__ users' interaction
-    - conceptual models and conceptual design: what the __designer__ does to foster good emntal model formation by the user 
+    - conceptual models and conceptual design: what the __designer__ does to foster good mental model formation by the user 
         - design concepts all inform a user's mental model 
         - eg. scissors: object that helps form a mental model
             - affordance: holes for something to be inserted 
@@ -55,8 +55,7 @@ Explain what __Norman's 7 stage model__ is good for (LG)
     - used for __prediction__: to select an appropriate action, _intention_ in Norman's model
 - __Norman's seven stage model__
 Use gulf/stages to analyze interactions with a system 
-Gulf of execution
-    ->
+    - Gulf of execution ->
     1. Establish goals
         - what do I want the system to do next?
     2. Form intention to act
@@ -65,12 +64,10 @@ Gulf of execution
     3. Decide on sequence of actions
         - to do it, I'll do this then this.
     4. Execute the action sequence
-    "the difference between the intentions and allowable actions"
-    The world 
-    ->
-    "the difference between actual system state and user's understanding"
-    Gulf of Evaluation
-    ->
+    - "the difference between the intentions and allowable actions"
+    - The world ->
+    - "the difference between actual system state and user's understanding"
+    - Gulf of Evaluation ->
     5. Perceive the state of the world 
         - what will I see as a result?
     6. Interpret perceived state
@@ -108,7 +105,7 @@ Explain the difference between __internal and external cognitive frameworks__ (L
 - Give examples of __external representatons__ that help with memory load reduction, computational offloading and cognitive tracing 
     - Benefits of external representations
         - externeralizing info is very helpful for _remembering_
-        - _computational offloading_: using tools an ddevices to carry out computations and other tasks 
+        - _computational offloading_: using tools and devices to carry out computations and other tasks 
             - eg. doing math problems on paper -> allows you to see the change, come back to it later, share with others
     - modification: reflecting changes or intention by modifying external representations by: annotation, cognifive tracing
         - _cognitive tracing_: manipulating objects into new orders and structures
@@ -163,7 +160,9 @@ __List__ and __describe__ models we have of human abilities (cognitive resources
             - slower access time with little decay
             - access: complicated operation that depends on recent past
             - causes for not remembering an item (forgetting)?
-                - 1. never stored (encoding failure), 2. gone from storage (storage failure), 3. can't get out of storage (retrieval failure)
+                - never stored (encoding failure)
+                - gone from storage (storage failure)
+                - can't get out of storage (retrieval failure)
                 - interferance model of forgetting: one item reduces the ability to retrieve another
                     - forward (proactive) interference (3)
                     - backward (retroactive interferance (3 & 2)
